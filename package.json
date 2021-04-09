@@ -1,0 +1,24 @@
+{
+  "name": "NodeConsoleProgram1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetiana-Soliarova/NodeConsoleProgram1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetiana-Soliarova/NodeConsoleProgram1/issues"
+  },
+  "homepage": "https://github.com/Tetiana-Soliarova/NodeConsoleProgram1#readme"
+}
